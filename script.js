@@ -12,7 +12,7 @@ const pagination = document.getElementById('pagination');
 async function fetchCommands() {
     try {
         // 这里可以替换为真实的 API 地址
-        const response = await fetch('https://sudreamwei.github.io/CommandHelp/commands.txt'); 
+        const response = await fetch('https://sudreamwei.github.io/CommandHelp/commands.json'); 
         commands = await response.json();
         renderCommands(commands);
         renderPagination(Math.ceil(commands.length / itemsPerPage));
