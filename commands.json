@@ -1,0 +1,314 @@
+[
+    {
+        "name": "alwaysday",
+        "description": "锁定或解锁日夜循环"
+    },
+    {
+        "name": "camera",
+        "description": "修改玩家的相机视角"
+    },
+    {
+        "name": "camerashake",
+        "description": "对玩家视野施以一定强度和时间的摇晃效果"
+    },
+    {
+        "name": "clear",
+        "description": "清除玩家物品栏的物品"
+    },
+    {
+        "name": "clearspawnpoint",
+        "description": "清除世界中设置的重生点"
+    },
+    {
+        "name": "clone",
+        "description": "在指定区域之间复制方块结构"
+    },
+    {
+        "name": "damage",
+        "description": "对指定实体造成伤害"
+    },
+    {
+        "name": "daylock",
+        "description": "锁定或解锁日夜循环"
+    },
+    {
+        "name": "deop",
+        "description": "撤销玩家的管理员权限"
+    },
+    {
+        "name": "dialogue",
+        "description": "为玩家打开NPC的对话框"
+    },
+    {
+        "name": "difficulty",
+        "description": "设定难度等级"
+    },
+    {
+        "name": "effect",
+        "description": "管理玩家及其他实体上的状态效果"
+    },
+    {
+        "name": "enchant",
+        "description": "为一位玩家手持的物品添加魔咒"
+    },
+    {
+        "name": "event",
+        "description": "触发实体事件"
+    },
+    {
+        "name": "execute",
+        "description": "在改变执行者、执行位置和角度，添加限制条件，并储存其输出值的情况下执行另一条命令"
+    },
+    {
+        "name": "fill",
+        "description": "用特定方块填充一个区域的全部或部分"
+    },
+    {
+        "name": "fog",
+        "description": "更改玩家的迷雾效果"
+    },
+    {
+        "name": "function",
+        "description": "运行行为包内的1个函数"
+    },
+    {
+        "name": "gamemode",
+        "description": "设置玩家的游戏模式"
+    },
+    {
+        "name": "gamerule",
+        "description": "设置或查询游戏规则"
+    },
+    {
+        "name": "gametest",
+        "description": "基于测试代码与测试结构配对的服务端测试自动化工具"
+    },
+    {
+        "name": "give",
+        "description": "给予实体一种指定数量的物品"
+    },
+    {
+        "name": "help",
+        "description": "列出所有可用命令"
+    },
+    {
+        "name": "hud",
+        "description": "修改HUD可见性"
+    },
+    {
+        "name": "immutableworld",
+        "description": "设置世界是否可发生变化"
+    },
+    {
+        "name": "inputpermission",
+        "description": "对玩家的权限状态进行指定操作"
+    },
+    {
+        "name": "kick",
+        "description": "将一位玩家踢出服务器"
+    },
+    {
+        "name": "kill",
+        "description": "杀死/清除实体（玩家、生物等）"
+    },
+    {
+        "name": "list",
+        "description": "列出在服务器上的玩家"
+    },
+    {
+        "name": "listd",
+        "description": "列出在服务器上的玩家（隐藏命令）"
+    },
+    {
+        "name": "locate",
+        "description": "在聊天框中为命令执行者显示给定类型结构或生物群系的最近坐标和距离"
+    },
+    {
+        "name": "loot",
+        "description": "将指定的战利品放入物品栏或世界"
+    },
+    {
+        "name": "me",
+        "description": "显示一条关于你自己的信息"
+    },
+    {
+        "name": "mobevent",
+        "description": "控制或查询允许运行的生物事件"
+    },
+    {
+        "name": "msg",
+        "description": "将一条私聊信息发送给一个或多个玩家"
+    },
+    {
+        "name": "music",
+        "description": "控制音乐"
+    },
+    {
+        "name": "op",
+        "description": "授予玩家管理员权限"
+    },
+    {
+        "name": "particle",
+        "description": "在指定位置显示粒子效果"
+    },
+    {
+        "name": "playanimation",
+        "description": "用于使一个或多个实体运行一次性动画"
+    },
+    {
+        "name": "playsound",
+        "description": "播放一段声音"
+    },
+    {
+        "name": "recipe",
+        "description": "给予或剥夺（解锁或锁定）玩家的合成配方"
+    },
+    {
+        "name": "reload",
+        "description": "重新加载行为包中的函数和脚本"
+    },
+    {
+        "name": "replaceitem",
+        "description": "替换方块或实体物品栏内的物品"
+    },
+    {
+        "name": "ride",
+        "description": "用于使实体骑乘其他实体、停止实体的骑乘/使坐骑逐出自己的骑手、召唤坐骑/骑手"
+    },
+    {
+        "name": "save",
+        "description": "准备备份、查询存档状态或恢复存档"
+    },
+    {
+        "name": "say",
+        "description": "通过聊天框向多个玩家发送消息"
+    },
+    {
+        "name": "schedule",
+        "description": "在指定的区域全部被加载时执行函数"
+    },
+    {
+        "name": "scoreboard",
+        "description": "管理记分板的目标、玩家和队伍"
+    },
+    {
+        "name": "script",
+        "description": "调试GameTest框架选项"
+    },
+    {
+        "name": "scriptevent",
+        "description": "通过ID和消息来触发脚本事件"
+    },
+    {
+        "name": "setblock",
+        "description": "将指定位置的方块更改为另一个方块"
+    },
+    {
+        "name": "setmaxplayers",
+        "description": "设置可加入多人游戏的玩家数量上限"
+    },
+    {
+        "name": "setworldspawn",
+        "description": "设置世界出生点"
+    },
+    {
+        "name": "spawnpoint",
+        "description": "为特定玩家设置出生点"
+    },
+    {
+        "name": "spreadplayers",
+        "description": "把实体随机传送到区域内地表的某个位置"
+    },
+    {
+        "name": "stopsound",
+        "description": "停止声音播放"
+    },
+    {
+        "name": "structure",
+        "description": "保存或加载结构"
+    },
+    {
+        "name": "summon",
+        "description": "召唤一个实体"
+    },
+    {
+        "name": "tag",
+        "description": "管理实体的记分板标签"
+    },
+    {
+        "name": "teleport",
+        "description": "传送实体到指定地点，并修改其旋转角度"
+    },
+    {
+        "name": "tell",
+        "description": "将一条私聊信息发送给一个或多个玩家"
+    },
+    {
+        "name": "tellraw",
+        "description": "向一个或多个玩家发送一条JSON文本消息"
+    },
+    {
+        "name": "testfor",
+        "description": "检测并统计符合指定条件的实体"
+    },
+    {
+        "name": "testforblock",
+        "description": "探测某个方块是否在特定位置"
+    },
+    {
+        "name": "testforblocks",
+        "description": "测试两个区域中的方块是否相同"
+    },
+    {
+        "name": "tickingarea",
+        "description": "添加、删除或列出常加载区域"
+    },
+    {
+        "name": "time",
+        "description": "更改或查询世界的游戏时间"
+    },
+    {
+        "name": "title",
+        "description": "控制屏幕标题"
+    },
+    {
+        "name": "titleraw",
+        "description": "控制屏幕标题(JSON)"
+    },
+    {
+        "name": "toggledownfall",
+        "description": "切换天气"
+    },
+    {
+        "name": "tp",
+        "description": "传送实体到指定地点，并修改其旋转角度"
+    },
+    {
+        "name": "volumearea",
+        "description": "在当前维度中添加、移除或列出功能域"
+    },
+    {
+        "name": "w",
+        "description": "将一条私聊信息发送给一个或多个玩家"
+    },
+    {
+        "name": "wb",
+        "description": "启用或禁用worldbuilder（世界建造者）能力"
+    },
+    {
+        "name": "weather",
+        "description": "更改游戏中的天气"
+    },
+    {
+        "name": "worldbuilder",
+        "description": "启用或禁用worldbuilder（世界建造者）能力"
+    },
+    {
+        "name": "xp",
+        "description": "给予玩家经验"
+    },
+    {
+        "name": "?",
+        "description": "列出所有可用命令"
+    }
+]
